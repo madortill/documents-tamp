@@ -284,7 +284,7 @@ export default {
       ],
       reason: "צרכי חקירה",
       roomText: "כלא 10",
-      pNum: "",
+      pNum: " ",
       lastName: "",
       firstName: "",
       userInput21: "",
